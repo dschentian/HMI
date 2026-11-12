@@ -5,7 +5,6 @@ source devel/setup.bash
 catkin_make
 
 #### 2，运行
-``` bash
 rosrun cyrobot_rviz_tree cyrobot_rviz_tree
 
 #### 3，编辑
